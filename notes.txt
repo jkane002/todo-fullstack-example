@@ -1,0 +1,5 @@
+REST API
+multiple applications to interact with each other (JSON format)
+server / client
+
+django-rest-framework.org
