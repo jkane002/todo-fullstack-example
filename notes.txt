@@ -3,3 +3,15 @@ multiple applications to interact with each other (JSON format)
 server / client
 
 django-rest-framework.org
+
+Installed djangorestframework
+
+provided models of
+* title
+* completed
+
+
+Serializers allow complex data such as querysets
+    and model instances to be converted to native Python
+    datatypes that can then be easily rendered into JSON,
+    XML or other content types.
