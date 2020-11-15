@@ -5,8 +5,8 @@ class App extends React.Component {
     render() {
         return (
         <div className="container">
-            <div className="task-container">
-                <div className="form-wrapper">
+            <div id="task-container">
+                <div id="form-wrapper">
                 <form id="form">
                 <div className="flex-wrapper">
                     <div style={{flex: 6}}>
